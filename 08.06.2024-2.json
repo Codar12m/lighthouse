@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Miller",
+    "age": 78,
+    "address": {
+        "street": "Hoover River",
+        "city": "Burgessfurt",
+        "state": "New York",
+        "zip": "02570"
+    },
+    "contact": {
+        "phone": "(910)504-0589",
+        "servicePhone": "800223435"
+    },
+    "birthday": "1947-17-11",
+    "ip": "2.17.24.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Financial represent edge career happy purpose study. Some large land receive.\nUs president there traditional since. Physical themselves summer try.",
+        "bio": "Cut sign wall southern thousand daughter various. Option style stand begin rate nor. Who red effort window stuff cup push.\nLearn decade for quickly organization eat. Maybe not themselves book with."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
