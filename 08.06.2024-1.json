@@ -1,0 +1,25 @@
+{
+    "name": "James Morales",
+    "age": 25,
+    "address": {
+        "street": "William Locks",
+        "city": "Johnsonland",
+        "state": "Nevada",
+        "zip": "80004"
+    },
+    "contact": {
+        "phone": "(206)295-1391x86474",
+        "servicePhone": "800345166"
+    },
+    "birthday": "2000-11-02",
+    "ip": "105.123.208.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge campaign once test figure. Car hair health picture story.\nLoss himself represent article direction. Remember blood land exactly top should assume develop. Own get final process card.",
+        "bio": "Bed glass thing prevent. Push none more street budget reduce world.\nModel tend first defense. End institution onto feeling leave.\nSafe success kid notice statement. Article listen age five."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
