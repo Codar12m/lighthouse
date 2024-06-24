@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Rivera",
+    "age": 32,
+    "address": {
+        "street": "Wade Junction",
+        "city": "North Marvintown",
+        "state": "Nebraska",
+        "zip": "08727"
+    },
+    "contact": {
+        "phone": "(463)616-5183x19657",
+        "servicePhone": "800461155"
+    },
+    "birthday": "1993-07-01",
+    "ip": "183.193.32.5",
+    "foo": "bar",
+    "profile": {
+        "about": "I edge begin onto. Such animal draw station note impact.\nCertainly support set news hand religious budget. Defense blood live almost. Politics garden listen window history civil.",
+        "bio": "Affect best program consumer wear. Community list discussion consider admit.\nWant over medical brother.\nScientist key reflect identify. Teach field improve source."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
