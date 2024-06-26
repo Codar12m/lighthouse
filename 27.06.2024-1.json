@@ -1,0 +1,25 @@
+{
+    "name": "Carmen Anderson",
+    "age": 1,
+    "address": {
+        "street": "Kayla Square",
+        "city": "Danielstad",
+        "state": "Tennessee",
+        "zip": "62001"
+    },
+    "contact": {
+        "phone": "526.655.9999",
+        "servicePhone": "800881074"
+    },
+    "birthday": "2024-31-07",
+    "ip": "135.104.236.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Always true recent view level. Painting able goal whose natural challenge any.",
+        "bio": "Service less fight ground note oil military. Despite possible trade trade rather project budget. Animal floor eight every course option stage defense."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
