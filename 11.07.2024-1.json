@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Daniel",
+    "age": 88,
+    "address": {
+        "street": "Ryan Ranch",
+        "city": "Thomasmouth",
+        "state": "Wyoming",
+        "zip": "28241"
+    },
+    "contact": {
+        "phone": "8513205680",
+        "servicePhone": "800318210"
+    },
+    "birthday": "1937-23-04",
+    "ip": "77.166.160.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Place yes society oil true share let. Lead step eye run system old shake language.\nRemain on series never. This from policy picture while situation attention.",
+        "bio": "Ground hospital challenge last according business. Young record to writer station finish moment hotel. Produce leave want above senior their."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
