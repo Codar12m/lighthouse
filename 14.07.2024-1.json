@@ -1,0 +1,25 @@
+{
+    "name": "Ashlee Shaw",
+    "age": 66,
+    "address": {
+        "street": "Cynthia Oval",
+        "city": "Greenville",
+        "state": "Indiana",
+        "zip": "55899"
+    },
+    "contact": {
+        "phone": "882.730.8451x180",
+        "servicePhone": "800838520"
+    },
+    "birthday": "1959-21-05",
+    "ip": "176.41.89.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Clear which step move friend traditional college set. Force small true bit local even sing.",
+        "bio": "Cause process and center difficult main. Serious body goal recognize learn race our."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
