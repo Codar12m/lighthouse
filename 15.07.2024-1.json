@@ -1,0 +1,25 @@
+{
+    "name": "Sara Weaver",
+    "age": 92,
+    "address": {
+        "street": "Yvette Bypass",
+        "city": "West Codymouth",
+        "state": "South Dakota",
+        "zip": "24749"
+    },
+    "contact": {
+        "phone": "(562)268-1217x300",
+        "servicePhone": "800673481"
+    },
+    "birthday": "1933-17-12",
+    "ip": "138.142.122.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Increase within knowledge report effect hit. Quality culture moment difficult production citizen.",
+        "bio": "Hold speech whether other.\nAlong reason newspaper data many field law. Population speech trial. Heart politics than second."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
