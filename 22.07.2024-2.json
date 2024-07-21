@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Harrison",
+    "age": 52,
+    "address": {
+        "street": "James Crescent",
+        "city": "Katieton",
+        "state": "Kansas",
+        "zip": "49542"
+    },
+    "contact": {
+        "phone": "+1-810-777-5756x37265",
+        "servicePhone": "800053865"
+    },
+    "birthday": "1973-13-04",
+    "ip": "89.183.183.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Future another then scene. Whose pay thousand imagine require sort region will.\nSeveral reach per recently. Not stage maintain.\nWeight price identify simply.",
+        "bio": "Instead save head modern move democratic establish. Effort great eye beyond catch coach.\nExpert contain effort play model. Natural political chance employee evidence American again."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
