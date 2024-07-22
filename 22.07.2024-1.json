@@ -1,0 +1,25 @@
+{
+    "name": "James Hale",
+    "age": 53,
+    "address": {
+        "street": "Johnson Via",
+        "city": "Heidiport",
+        "state": "West Virginia",
+        "zip": "99579"
+    },
+    "contact": {
+        "phone": "(643)398-5907x41306",
+        "servicePhone": "800288509"
+    },
+    "birthday": "1972-31-01",
+    "ip": "131.93.81.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Public cold plan model box role set long. Try free difference range modern book account.\nCongress set eye suddenly result head such. Thousand market investment here.",
+        "bio": "Season station law agreement. Husband citizen else bill accept economy. Almost require apply computer smile item enjoy."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
