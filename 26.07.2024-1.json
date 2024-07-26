@@ -1,0 +1,25 @@
+{
+    "name": "Gwendolyn Alvarez",
+    "age": 66,
+    "address": {
+        "street": "Reed Brooks",
+        "city": "Lake Jontown",
+        "state": "Ohio",
+        "zip": "75744"
+    },
+    "contact": {
+        "phone": "733.223.1265",
+        "servicePhone": "800307312"
+    },
+    "birthday": "1959-14-12",
+    "ip": "122.251.206.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention run ability budget. Relate either however example report think. About easy hand reduce southern reason.",
+        "bio": "Professor garden event natural suffer chance. Least civil push. Hear ground argue officer list as kid. Decade scene success whatever own action.\nVoice concern teach beat line ball keep."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
