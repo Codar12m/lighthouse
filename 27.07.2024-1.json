@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Martin",
+    "age": 68,
+    "address": {
+        "street": "Miller Spring",
+        "city": "Smithtown",
+        "state": "California",
+        "zip": "91126"
+    },
+    "contact": {
+        "phone": "875.818.1391x9641",
+        "servicePhone": "800255823"
+    },
+    "birthday": "1957-01-04",
+    "ip": "130.113.104.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Day father free traditional. Part scene executive property.\nCustomer cultural look plant though general her. What thousand can himself less PM hot. Field the free realize individual.",
+        "bio": "Child play film big opportunity dinner. Home this design travel. Necessary fund woman development life.\nMrs often add set.\nWhere PM cause kid west. Memory from mean her what."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
