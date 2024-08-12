@@ -1,0 +1,25 @@
+{
+    "name": "Walter Wright",
+    "age": 39,
+    "address": {
+        "street": "Sarah Rest",
+        "city": "Johnchester",
+        "state": "Utah",
+        "zip": "54757"
+    },
+    "contact": {
+        "phone": "(605)221-7014x828",
+        "servicePhone": "800350886"
+    },
+    "birthday": "1986-15-06",
+    "ip": "63.96.102.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Goal song lay positive floor former writer. Special drop what claim. Door like determine trip wear.",
+        "bio": "Word little chance nor finally country store. However newspaper can detail third story."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
