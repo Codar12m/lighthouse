@@ -1,0 +1,25 @@
+{
+    "name": "Renee Bender",
+    "age": 54,
+    "address": {
+        "street": "Wilcox Glen",
+        "city": "Westtown",
+        "state": "Rhode Island",
+        "zip": "85966"
+    },
+    "contact": {
+        "phone": "6627770081",
+        "servicePhone": "800248649"
+    },
+    "birthday": "1971-16-05",
+    "ip": "155.8.198.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Finish continue go maintain local receive rise president. Heavy when guy music.\nTo heavy data ever reach firm almost.",
+        "bio": "Family meeting care accept bed. How fall meet nearly administration get international."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
