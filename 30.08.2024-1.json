@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Rios",
+    "age": 85,
+    "address": {
+        "street": "Hanson Park",
+        "city": "Heiditown",
+        "state": "Alabama",
+        "zip": "14261"
+    },
+    "contact": {
+        "phone": "(752)929-4290",
+        "servicePhone": "800931773"
+    },
+    "birthday": "1940-13-10",
+    "ip": "62.54.92.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Cup reflect he.\nUs four yeah side good sing again. Important dinner whom. View keep represent program leader.\nThank receive effort pass should. Reality rock north rule trouble gun yard.",
+        "bio": "Where strategy lot fund avoid. Team reality close usually.\nPlan up debate floor.\nMeet husband safe specific. Ready including test hold land season. Order condition point structure."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
