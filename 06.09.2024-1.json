@@ -1,0 +1,25 @@
+{
+    "name": "Madison Ferrell",
+    "age": 57,
+    "address": {
+        "street": "Montes Port",
+        "city": "North Jeffreyshire",
+        "state": "Kentucky",
+        "zip": "92556"
+    },
+    "contact": {
+        "phone": "485.259.1638x2313",
+        "servicePhone": "800003096"
+    },
+    "birthday": "1968-26-12",
+    "ip": "162.194.122.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Music even realize management rate issue. Nature view trouble join continue save. Little stop actually control. Western west magazine good.\nThrow break rather office. Base page visit.",
+        "bio": "Generation marriage which money. For significant evidence least.\nNext deal skill upon around report."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
