@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Hatfield",
+    "age": 18,
+    "address": {
+        "street": "Jason Ways",
+        "city": "Port Theresamouth",
+        "state": "South Dakota",
+        "zip": "72960"
+    },
+    "contact": {
+        "phone": "681.284.7540",
+        "servicePhone": "800425712"
+    },
+    "birthday": "2007-16-10",
+    "ip": "210.100.33.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Action adult couple class. Two operation natural have rate culture east. Former firm chance table hundred reduce measure Mr.",
+        "bio": "South front east interview president cause. Fast chance left class continue worry. Represent generation arrive throughout best teach."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
