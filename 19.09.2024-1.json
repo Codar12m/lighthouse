@@ -1,0 +1,25 @@
+{
+    "name": "Ann Sandoval",
+    "age": 105,
+    "address": {
+        "street": "Marie Mission",
+        "city": "North Stephenbury",
+        "state": "Montana",
+        "zip": "03507"
+    },
+    "contact": {
+        "phone": "956.673.2233x1946",
+        "servicePhone": "800507648"
+    },
+    "birthday": "1920-06-03",
+    "ip": "194.1.239.28",
+    "foo": "bar",
+    "profile": {
+        "about": "List face including physical during.\nMuch then property we ready much. Player live get skin character. Card care reveal near describe.\nInside turn budget amount enjoy. Field consider he light though.",
+        "bio": "Democratic season bill require enjoy particularly seek mention. Last agency often professor whose author. Indeed common whole early because."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
