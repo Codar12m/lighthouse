@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Lee",
+    "age": 46,
+    "address": {
+        "street": "Smith Alley",
+        "city": "Port William",
+        "state": "Oklahoma",
+        "zip": "66893"
+    },
+    "contact": {
+        "phone": "+1-632-695-8142",
+        "servicePhone": "800087409"
+    },
+    "birthday": "1979-06-11",
+    "ip": "214.227.202.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring fast hit possible. Use sound city wind enter. Low exactly gas fund final article ready.\nFour physical strategy. Final lot church leg might voice stock.",
+        "bio": "Leg site treat few always data trip. This process happen.\nPainting course pull prepare ahead practice world. Around so degree language."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
