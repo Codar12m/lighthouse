@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Miranda",
+    "age": 46,
+    "address": {
+        "street": "Alvarez Crescent",
+        "city": "Kennethmouth",
+        "state": "Utah",
+        "zip": "29703"
+    },
+    "contact": {
+        "phone": "+1-783-376-2619x72958",
+        "servicePhone": "800957249"
+    },
+    "birthday": "1979-20-03",
+    "ip": "57.166.233.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Surface focus important answer. Develop task individual represent draw president imagine act. Computer pretty my.\nFinancial early they almost data million. Republican serious list.",
+        "bio": "Lead front best east history consumer mention. Professor much bar ahead term adult color. Nice series environmental fact buy much."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
