@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Green",
+    "age": 71,
+    "address": {
+        "street": "Stevenson Canyon",
+        "city": "New Glenn",
+        "state": "Michigan",
+        "zip": "56685"
+    },
+    "contact": {
+        "phone": "757-965-9419",
+        "servicePhone": "800945917"
+    },
+    "birthday": "1954-17-05",
+    "ip": "53.121.208.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Day so drop never blood take something song. Often cup nearly probably really energy adult science.\nJoin anything economic answer. Name early visit exactly item.",
+        "bio": "Including degree part election doctor. Record argue story company once reduce art.\nForward area part during nearly occur. Test majority land marriage energy feel trouble. Model big simple side view."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
