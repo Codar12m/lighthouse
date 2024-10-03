@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Roberson",
+    "age": 54,
+    "address": {
+        "street": "Daniel Way",
+        "city": "Kyleview",
+        "state": "North Carolina",
+        "zip": "09995"
+    },
+    "contact": {
+        "phone": "769.692.0128x5881",
+        "servicePhone": "800287020"
+    },
+    "birthday": "1971-06-09",
+    "ip": "169.22.249.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Window friend receive likely. Rest foreign network many clearly choose same. Find enter build citizen cause support first per.\nCreate get onto practice glass but. Onto night crime box various.",
+        "bio": "Production itself not treatment. Phone point local western main relate direction close."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
