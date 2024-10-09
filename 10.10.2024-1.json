@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Davis",
+    "age": 4,
+    "address": {
+        "street": "Newman Squares",
+        "city": "Belindashire",
+        "state": "Utah",
+        "zip": "05911"
+    },
+    "contact": {
+        "phone": "818-550-4530x5605",
+        "servicePhone": "800793704"
+    },
+    "birthday": "2021-18-11",
+    "ip": "137.185.148.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Tend hair occur store blue home. Several expert many we above once hotel.\nToday no statement fine point year art. Time box pass. Prevent protect help cell.\nResult majority everyone national.",
+        "bio": "Federal few far half help bring ok.\nAttorney matter marriage woman easy media join. Establish suggest themselves. Surface your record I concern. Design life third technology show throw."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
