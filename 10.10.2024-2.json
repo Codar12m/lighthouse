@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Bentley",
+    "age": 65,
+    "address": {
+        "street": "Timothy Crossing",
+        "city": "West Charlene",
+        "state": "Illinois",
+        "zip": "51440"
+    },
+    "contact": {
+        "phone": "001-815-530-3922",
+        "servicePhone": "800078031"
+    },
+    "birthday": "1960-15-09",
+    "ip": "175.226.116.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Film radio arrive baby discussion successful water. Pattern move scientist number receive share age.\nNearly thousand agent between any picture. Claim follow laugh speak. Itself land truth almost.",
+        "bio": "Rock ball apply avoid market Democrat strong. Attack role still middle of authority."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
