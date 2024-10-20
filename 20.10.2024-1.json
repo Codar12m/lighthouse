@@ -1,0 +1,25 @@
+{
+    "name": "Laura Powell",
+    "age": 50,
+    "address": {
+        "street": "Carey Loop",
+        "city": "Kristaberg",
+        "state": "Kansas",
+        "zip": "59610"
+    },
+    "contact": {
+        "phone": "001-661-642-5872x08082",
+        "servicePhone": "800718186"
+    },
+    "birthday": "1975-10-12",
+    "ip": "171.71.37.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Crime social red yard per blue man government. Move teach trip create read. Far now lot significant type.\nCommunity pattern serve here power close whether. Tend whole media suffer enter.",
+        "bio": "Choose beautiful top suddenly listen then main. Media over performance book difficult.\nArrive father Democrat son past. Group room girl national paper idea character someone."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
