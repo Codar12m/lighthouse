@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Watkins",
+    "age": 106,
+    "address": {
+        "street": "Tyler Port",
+        "city": "North Abigailport",
+        "state": "Illinois",
+        "zip": "42128"
+    },
+    "contact": {
+        "phone": "(998)717-1774x5825",
+        "servicePhone": "800791112"
+    },
+    "birthday": "1919-27-09",
+    "ip": "89.41.199.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Heart floor news interesting partner.\nExactly experience view impact food each. Then clear bad key.\nPerform north data off trip point sometimes player. Almost account yard as rich.",
+        "bio": "Drive tax second however investment. Write offer eight provide. His before Democrat market cut particularly reason."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
