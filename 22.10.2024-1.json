@@ -1,0 +1,25 @@
+{
+    "name": "Lori Gardner",
+    "age": 74,
+    "address": {
+        "street": "Dale Way",
+        "city": "Daystad",
+        "state": "Hawaii",
+        "zip": "70789"
+    },
+    "contact": {
+        "phone": "(316)268-3935",
+        "servicePhone": "800420843"
+    },
+    "birthday": "1951-21-02",
+    "ip": "185.59.152.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Dog city receive surface.\nServe speech tonight. Base kid you training alone send grow. Raise serious father read significant concern.",
+        "bio": "Now sign effect else while. Tv their court character leg wall.\nSit next me official technology. Red attention plan network series. Trade religious sister owner writer deal."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
