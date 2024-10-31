@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Sanders",
+    "age": 41,
+    "address": {
+        "street": "Patterson Mall",
+        "city": "West Jamesland",
+        "state": "California",
+        "zip": "25509"
+    },
+    "contact": {
+        "phone": "704.329.1453",
+        "servicePhone": "800682538"
+    },
+    "birthday": "1984-18-09",
+    "ip": "200.245.245.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Third more interesting form allow east. Later hundred nor window real. Easy decade kind investment his follow image.\nBenefit human item author suggest. Partner region their contain.",
+        "bio": "Within consider health particular operation dark memory. Rule modern himself. Go government likely ask."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
