@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Robinson",
+    "age": 84,
+    "address": {
+        "street": "Peter Fords",
+        "city": "Lake Elijah",
+        "state": "New Jersey",
+        "zip": "42595"
+    },
+    "contact": {
+        "phone": "494.802.4794",
+        "servicePhone": "800981999"
+    },
+    "birthday": "1941-14-05",
+    "ip": "192.245.144.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Know government interesting money. Movement serious sing song ground free.\nTreatment system but difference challenge model story phone. Consider himself appear focus. Fund pick would run pretty.",
+        "bio": "Pick candidate term five. The along sea skin. Keep perform base back.\nDemocrat view decade expert. Table control interview surface cold nice. Capital center away organization season entire let."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
