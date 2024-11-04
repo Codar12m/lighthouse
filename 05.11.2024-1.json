@@ -1,0 +1,25 @@
+{
+    "name": "Debra Chase DDS",
+    "age": 24,
+    "address": {
+        "street": "Donald Views",
+        "city": "Goodwinfurt",
+        "state": "Hawaii",
+        "zip": "59585"
+    },
+    "contact": {
+        "phone": "222-221-1387x995",
+        "servicePhone": "800075218"
+    },
+    "birthday": "2001-26-11",
+    "ip": "102.75.200.104",
+    "foo": "bar",
+    "profile": {
+        "about": "List TV like moment still better same. Trouble stand child six. Present community none age as sing piece have.",
+        "bio": "Send toward final authority kid. Business central support build nature husband Mrs.\nGeneral chair early front probably player all dream.\nDo street live three son begin play."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
