@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Wilcox",
+    "age": 93,
+    "address": {
+        "street": "Kristen Shores",
+        "city": "Danatown",
+        "state": "North Carolina",
+        "zip": "30907"
+    },
+    "contact": {
+        "phone": "342-599-5678x5757",
+        "servicePhone": "800075859"
+    },
+    "birthday": "1932-03-11",
+    "ip": "133.142.202.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Away center recent specific another responsibility. I including customer news serve heavy family. Everybody college know business coach it determine.",
+        "bio": "Office form begin national. Fill have foreign support he pass.\nSpace treat third reach point president. Believe environmental where name nothing middle return."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
