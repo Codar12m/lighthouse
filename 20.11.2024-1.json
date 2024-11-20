@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Fisher",
+    "age": 19,
+    "address": {
+        "street": "Mitchell Drive",
+        "city": "South Cindyside",
+        "state": "Illinois",
+        "zip": "81557"
+    },
+    "contact": {
+        "phone": "9807717151",
+        "servicePhone": "800635235"
+    },
+    "birthday": "2006-27-12",
+    "ip": "134.58.142.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Mission summer human threat century upon. Fish sell fast toward increase sister. Toward vote color science nice strategy pull long.\nNothing person ever reality commercial care. Need one step west it.",
+        "bio": "Officer act bank. Teacher someone vote camera. Main anything mind majority.\nWrong various history hospital. Fire person behind glass agency guess."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
