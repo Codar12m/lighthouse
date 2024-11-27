@@ -1,0 +1,25 @@
+{
+    "name": "William Best",
+    "age": 30,
+    "address": {
+        "street": "Valentine Harbor",
+        "city": "Port Stephen",
+        "state": "Michigan",
+        "zip": "43412"
+    },
+    "contact": {
+        "phone": "(323)747-6934x681",
+        "servicePhone": "800506026"
+    },
+    "birthday": "1995-23-09",
+    "ip": "198.194.248.248",
+    "foo": "bar",
+    "profile": {
+        "about": "House none itself professor purpose provide. Already claim member send sound number television.",
+        "bio": "Near include hold pretty once. He line suffer country push lot those reflect.\nOffice season truth he other cultural. Argue thing none wonder always. Morning its life speak choice."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
