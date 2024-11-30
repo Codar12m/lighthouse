@@ -1,0 +1,25 @@
+{
+    "name": "Logan Avery",
+    "age": 63,
+    "address": {
+        "street": "Christopher Viaduct",
+        "city": "Port Christinafort",
+        "state": "Oregon",
+        "zip": "85681"
+    },
+    "contact": {
+        "phone": "(638)225-1199x756",
+        "servicePhone": "800427715"
+    },
+    "birthday": "1962-10-01",
+    "ip": "44.174.195.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Point another kid student once region international. City smile difficult specific place police other. Great system sometimes recent true.\nEnd finally including. Fast team beyond area eight.",
+        "bio": "Develop sure process majority local big camera. Physical admit finish which very gun hour trouble. Involve use moment easy."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
