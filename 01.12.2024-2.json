@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Amanda Herring MD",
+    "age": 64,
+    "address": {
+        "street": "Scott Well",
+        "city": "East Jordantown",
+        "state": "Montana",
+        "zip": "27368"
+    },
+    "contact": {
+        "phone": "9585921976",
+        "servicePhone": "800088952"
+    },
+    "birthday": "1961-17-03",
+    "ip": "69.190.79.61",
+    "foo": "bar",
+    "profile": {
+        "about": "I yeah candidate require green place affect. Analysis million late some. Account bill federal laugh Congress.",
+        "bio": "Outside why imagine site owner decision. Ahead eye new life into chair. Responsibility mean leader. Able police ground policy weight know student."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
