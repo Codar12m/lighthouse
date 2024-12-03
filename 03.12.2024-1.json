@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Anderson",
+    "age": 54,
+    "address": {
+        "street": "Michael Valley",
+        "city": "North Maxwell",
+        "state": "Washington",
+        "zip": "48680"
+    },
+    "contact": {
+        "phone": "676-800-0320x120",
+        "servicePhone": "800885815"
+    },
+    "birthday": "1971-11-03",
+    "ip": "29.215.110.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Piece door experience that. Gun program effort health. Me arrive age near. Born or worker suggest human.",
+        "bio": "Plant single peace necessary small energy computer. Enough eat research return against. Will middle top. Both special level hot environmental."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
