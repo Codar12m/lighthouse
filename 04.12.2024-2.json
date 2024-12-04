@@ -1,0 +1,25 @@
+{
+    "name": "Erica Vaughn",
+    "age": 39,
+    "address": {
+        "street": "Dickson Street",
+        "city": "Port Scottshire",
+        "state": "Idaho",
+        "zip": "03598"
+    },
+    "contact": {
+        "phone": "(508)959-7814x21368",
+        "servicePhone": "800148616"
+    },
+    "birthday": "1986-15-02",
+    "ip": "78.213.141.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Old staff environmental away. May safe involve affect Mrs note usually. Management couple international off middle.\nReligious sing high gun fill. Court push suffer.",
+        "bio": "Also drop compare with herself detail dinner. Understand main argue change goal some art."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
