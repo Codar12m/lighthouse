@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Hamilton",
+    "age": 12,
+    "address": {
+        "street": "Wright Lodge",
+        "city": "Jessicaview",
+        "state": "Rhode Island",
+        "zip": "33929"
+    },
+    "contact": {
+        "phone": "001-268-322-0255x2771",
+        "servicePhone": "800898173"
+    },
+    "birthday": "2013-15-02",
+    "ip": "156.20.96.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Last discover away story experience. Cause first not evidence explain light police.\nOver must condition. Member month responsibility attention.",
+        "bio": "Hand exactly yard plant.\nSend nature girl hour official poor day. Their wide candidate word skill seem."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
