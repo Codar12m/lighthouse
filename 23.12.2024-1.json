@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Foster",
+    "age": 58,
+    "address": {
+        "street": "Blake Lane",
+        "city": "Patrickstad",
+        "state": "Maryland",
+        "zip": "96862"
+    },
+    "contact": {
+        "phone": "(304)431-0822x95201",
+        "servicePhone": "800056355"
+    },
+    "birthday": "1967-17-08",
+    "ip": "194.245.25.65",
+    "foo": "bar",
+    "profile": {
+        "about": "List evidence future court truth indeed head. Arm natural year environment between. Short necessary similar boy.\nClass movie couple soon draw no tend. Material method voice future interview.",
+        "bio": "Seven eye each note education than. Involve those line question camera knowledge probably law.\nNothing consumer its. Space tend beat. Threat peace southern under paper."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
