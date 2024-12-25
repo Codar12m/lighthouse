@@ -1,0 +1,25 @@
+{
+    "name": "David Hunter",
+    "age": 102,
+    "address": {
+        "street": "English Mall",
+        "city": "North Christianhaven",
+        "state": "Delaware",
+        "zip": "49245"
+    },
+    "contact": {
+        "phone": "+1-542-273-6291x50404",
+        "servicePhone": "800451474"
+    },
+    "birthday": "1923-04-02",
+    "ip": "3.133.0.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside boy player wall. Party we throw. Nation adult forward should certainly between.\nLoss well choice instead campaign far. You from do west deep entire hold couple.",
+        "bio": "Cover forward two hair discussion perform. Ball season list management. Have begin answer very defense standard blood. Either watch usually national think value three."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
