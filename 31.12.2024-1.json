@@ -1,0 +1,25 @@
+{
+    "name": "Erica Morales",
+    "age": 74,
+    "address": {
+        "street": "Wilson Track",
+        "city": "Collinsview",
+        "state": "Illinois",
+        "zip": "70521"
+    },
+    "contact": {
+        "phone": "205-262-8147",
+        "servicePhone": "800813819"
+    },
+    "birthday": "1951-22-08",
+    "ip": "29.254.4.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Field rich rather. Involve probably far camera over. Total lawyer board care.",
+        "bio": "As after prepare ground. Treatment how ever carry fish fund."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
