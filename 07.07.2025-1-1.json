@@ -1,0 +1,25 @@
+{
+    "name": "David Jordan",
+    "age": 56,
+    "address": {
+        "street": "Foster Station",
+        "city": "South Selenaside",
+        "state": "Florida",
+        "zip": "73053"
+    },
+    "contact": {
+        "phone": "4742914092",
+        "servicePhone": "800647279"
+    },
+    "birthday": "1969-12-07",
+    "ip": "183.23.85.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Such reality write whatever role point. Value beyond think in any that film heavy.\nWater family recently bar tend. Doctor sometimes imagine Mrs myself near drug us. Item fall serve list full million.",
+        "bio": "Lawyer maybe city present study later. Unit stay peace personal gas.\nType almost heavy main read. Guy effect development."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
