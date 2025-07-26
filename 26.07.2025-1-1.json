@@ -1,0 +1,25 @@
+{
+    "name": "Christian Gross",
+    "age": 48,
+    "address": {
+        "street": "Coleman Curve",
+        "city": "West Christopherville",
+        "state": "Virginia",
+        "zip": "53001"
+    },
+    "contact": {
+        "phone": "772-707-3244x8735",
+        "servicePhone": "800003959"
+    },
+    "birthday": "1977-17-01",
+    "ip": "140.84.206.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure citizen watch food school young. Available civil pretty pressure thought. Here hold Congress mean wish remember. Where ago give lay peace land explain.",
+        "bio": "Road list morning painting road them.\nAnything product individual suffer. Expert increase affect perhaps. Size woman father recognize. Few simply floor much dinner guess."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
