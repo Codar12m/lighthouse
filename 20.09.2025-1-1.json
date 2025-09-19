@@ -1,0 +1,25 @@
+{
+    "name": "Audrey Holt",
+    "age": 67,
+    "address": {
+        "street": "Ruiz Forks",
+        "city": "Christinaside",
+        "state": "Idaho",
+        "zip": "30302"
+    },
+    "contact": {
+        "phone": "+1-348-987-4616",
+        "servicePhone": "800283891"
+    },
+    "birthday": "1958-28-01",
+    "ip": "102.44.206.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Trial card simply artist what store per. Over after deep wind customer.",
+        "bio": "Time say run blood. Second begin enter physical nearly decade leader west. Smile impact hope tree guy artist improve."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
