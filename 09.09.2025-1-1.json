@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Smith Jr.",
+    "age": 20,
+    "address": {
+        "street": "Roman Coves",
+        "city": "South Danielmouth",
+        "state": "Arizona",
+        "zip": "85332"
+    },
+    "contact": {
+        "phone": "001-654-997-9673x113",
+        "servicePhone": "800595978"
+    },
+    "birthday": "2005-22-03",
+    "ip": "175.237.244.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Allow newspaper country their beyond. Instead mind even plan admit consider lay. His how organization physical personal the.",
+        "bio": "Nice address understand. College follow style impact on. Design what word budget price night."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

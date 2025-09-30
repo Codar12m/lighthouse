@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Baker",
+    "age": 8,
+    "address": {
+        "street": "Thomas Tunnel",
+        "city": "Port Raymond",
+        "state": "Hawaii",
+        "zip": "58265"
+    },
+    "contact": {
+        "phone": "890-503-1816",
+        "servicePhone": "800510335"
+    },
+    "birthday": "2017-18-02",
+    "ip": "216.201.228.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Human help cut. Ball technology budget my wish. Center true appear art fly.\nAhead factor man play list deep. Know somebody wrong Republican. Right day life media thus phone position director.",
+        "bio": "Discuss despite audience property space. Machine week answer across space politics student. Never instead someone long cultural law free also."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
