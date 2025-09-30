@@ -1,0 +1,25 @@
+{
+    "name": "Glenda Nelson",
+    "age": 74,
+    "address": {
+        "street": "Hill Canyon",
+        "city": "Munozberg",
+        "state": "Kansas",
+        "zip": "31965"
+    },
+    "contact": {
+        "phone": "240-994-4390",
+        "servicePhone": "800677396"
+    },
+    "birthday": "1951-25-11",
+    "ip": "157.158.203.163",
+    "foo": "bar",
+    "profile": {
+        "about": "These important wear stuff glass. Imagine management economic hour. Glass carry kind would move color data.",
+        "bio": "Process light message think hand citizen. Second everybody list treat action."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
