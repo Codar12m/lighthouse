@@ -1,0 +1,25 @@
+{
+    "name": "Richard Watson",
+    "age": 22,
+    "address": {
+        "street": "Frances View",
+        "city": "New Kimberlyton",
+        "state": "Illinois",
+        "zip": "10277"
+    },
+    "contact": {
+        "phone": "+1-611-440-4704x0047",
+        "servicePhone": "800919358"
+    },
+    "birthday": "2003-16-08",
+    "ip": "31.164.40.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Nothing bag less quite information treatment road. Receive suggest take to. Such woman whole particularly store.",
+        "bio": "Heavy particularly guy. Act end bring some man.\nCrime role doctor data then. Foot office reflect. Fill read dark too image detail like significant."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
