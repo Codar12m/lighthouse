@@ -1,0 +1,25 @@
+{
+    "name": "Erin Wise",
+    "age": 102,
+    "address": {
+        "street": "Cruz Squares",
+        "city": "Kelseymouth",
+        "state": "Connecticut",
+        "zip": "28308"
+    },
+    "contact": {
+        "phone": "+1-743-658-6466x19640",
+        "servicePhone": "800637193"
+    },
+    "birthday": "1923-18-07",
+    "ip": "136.167.22.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Contain red thus great life region foreign billion. Among that store artist.\nPattern energy often pull both her. True find board hit spring yeah reduce bill. Member these Congress.",
+        "bio": "Own amount clear more. List development partner who new standard during.\nMrs spring property must young eye. Too bed position although day six. Whether collection dinner production born rich."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Daugherty",
+    "age": 42,
+    "address": {
+        "street": "Sabrina Walk",
+        "city": "Kimberlyville",
+        "state": "Delaware",
+        "zip": "83349"
+    },
+    "contact": {
+        "phone": "(691)582-7478x23441",
+        "servicePhone": "800787424"
+    },
+    "birthday": "1983-26-09",
+    "ip": "187.50.162.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Free medical budget imagine. Newspaper short leave take whether maintain.\nPut community her someone financial couple. Half reality behavior represent age the. Career anyone hit foreign peace store.",
+        "bio": "Enjoy reach third benefit question middle. Sport teach argue official interest carry."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}

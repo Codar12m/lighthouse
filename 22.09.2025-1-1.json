@@ -1,0 +1,25 @@
+{
+    "name": "Makayla Patterson",
+    "age": 89,
+    "address": {
+        "street": "Smith Trafficway",
+        "city": "East Stevenfort",
+        "state": "Hawaii",
+        "zip": "05645"
+    },
+    "contact": {
+        "phone": "001-979-624-0328",
+        "servicePhone": "800078543"
+    },
+    "birthday": "1936-03-09",
+    "ip": "72.150.142.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior control cut reach different. Street article election might skill above share. Skin positive long will present low.\nBig chair daughter put area. Sign allow determine science.",
+        "bio": "Eat like rule management fact begin entire story. Both community make star politics."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
