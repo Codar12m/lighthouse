@@ -1,0 +1,25 @@
+{
+    "name": "Regina Olson",
+    "age": 13,
+    "address": {
+        "street": "Woods Estate",
+        "city": "Lake Nicholasstad",
+        "state": "Alabama",
+        "zip": "45413"
+    },
+    "contact": {
+        "phone": "+1-664-334-3186",
+        "servicePhone": "800293371"
+    },
+    "birthday": "2012-01-10",
+    "ip": "176.2.11.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Husband bag operation he bed management. Also allow as offer back sea society data. Decide tough time drop film long wide.",
+        "bio": "American vote thus add wait. Interest lawyer hospital. Same fire expect participant.\nPerson never issue as peace. Career point necessary message into fear. Challenge whole man at."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
